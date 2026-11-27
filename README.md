@@ -1,8 +1,9 @@
-College Notice Board
+College Notice Board Application
 
+This application displays important college announcements.
 
-
-This is the Develop Branch.
-
-Application development is happening here.
-
+Features:
+1. Examination Notifications
+2. College Event Updates
+3. Important Announcements
+4. Student Information
